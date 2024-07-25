@@ -1,0 +1,1 @@
+The project demonstrates the concepts of mappings (@OneToOne, @ManyToOne, etc.). 
